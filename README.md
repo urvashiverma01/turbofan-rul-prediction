@@ -2,7 +2,7 @@
 
 Predicts the Remaining Useful Life (RUL) — operational cycles left before failure — of a turbofan engine from its recent sensor readings, using NASA's C-MAPSS (FD001) turbofan degradation dataset.
 
-**Live demo:** _add your Render URL here once deployed_
+**Live demo:** https://turbofan-rul-prediction.onrender.com
 **Dataset:** [NASA C-MAPSS Turbofan Engine Degradation Simulation](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 
 ## Overview
